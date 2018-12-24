@@ -1,0 +1,37 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://172.20.10.14/sell?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+  jackson:
+    default-property-inclusion: non_null
+  freemarker:
+    allow-request-override: false
+    cache: false
+    check-template-location: true
+    charset: utf-8
+    content-type: text/html
+    expose-request-attributes: true
+    expose-session-attributes: true
+    expose-spring-macro-helpers: true
+    suffix: .ftl
+    template-loader-path: classpath:/templates/
+
+server:
+  servlet:
+    context-path: /sell
+
+wechat:
+  mpAppId: wx26b569a458182871
+  mpAppSecret: c546f0891cf47f297529ffeecfd8dd18
+
+
+
+#logging:
+# pattern:
+#  console: "%d - %msg%n"
+#path: /var/log/tomcat/
+# level: debug

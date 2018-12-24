@@ -1,0 +1,18 @@
+Starting LoggerTest on DESKTOP-IET4AHL with PID 5680 (started by LK in E:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 4.375 seconds (JVM running for 6.046)
+name:imooc, password:1213
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting LoggerTest on DESKTOP-IET4AHL with PID 9008 (started by LK in E:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 4.313 seconds (JVM running for 6.016)
+name:imooc, password:1213
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting LoggerTest on DESKTOP-IET4AHL with PID 7700 (started by LK in E:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 4.892 seconds (JVM running for 6.592)
+name:imooc, password:1213
+Shutting down ExecutorService 'applicationTaskExecutor'

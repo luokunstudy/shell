@@ -1,0 +1,84 @@
+Starting ShellApplication on home with PID 5168 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 94ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4049ab86] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1831 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 9.724 seconds (JVM running for 13.776)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 136 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+Starting ShellApplication on home with PID 11228 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 95ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cab2dce2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2925 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 7.747 seconds (JVM running for 11.28)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+【微信网页授权】获取code，result=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx26b569a458182871&redirect_uri=http%3A%2F%2Fx3jfk8.natappfree.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获取code，result=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx26b569a458182871&redirect_uri=http%3A%2F%2Fx3jfk8.natappfree.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fwww.baidu.com&connect_redirect=1#wechat_redirect

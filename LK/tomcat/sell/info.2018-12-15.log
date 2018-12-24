@@ -1,0 +1,597 @@
+Starting OrderServiceImplTest on home with PID 7416 (started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 192ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2623b5f7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderServiceImplTest in 9.442 seconds (JVM running for 11.938)
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderServiceImplTest on home with PID 8156 (started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 114ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a4d0fc8e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderServiceImplTest in 8.73 seconds (JVM running for 11.171)
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ShellApplication on home with PID 4264 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6e5ff379] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2276 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 6.279 seconds (JVM running for 9.44)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 3264 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 69ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a9b65755] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1331 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 4.374 seconds (JVM running for 5.296)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 8824 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 89ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$86f3e5dd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1492 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.263 seconds (JVM running for 8.282)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 3316 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 70ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$299f45cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1529 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.365 seconds (JVM running for 8.035)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 1556 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 60ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b85d0d67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1019 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.185 seconds (JVM running for 4.12)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 8280 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7b3c9503] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1551 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.741 seconds (JVM running for 7.897)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 3860 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 57ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6d244ef0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1009 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.466 seconds (JVM running for 5.28)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 8080 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 96ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$56f34ab] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1524 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.3 seconds (JVM running for 7.713)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 7980 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 61ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a5e2f75e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1055 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.532 seconds (JVM running for 4.123)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 3860 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 62ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$51903528] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1041 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.275 seconds (JVM running for 3.866)
+Starting ShellApplication on home with PID 5652 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 62ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fa2a7ef0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1121 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.516 seconds (JVM running for 4.742)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 2792 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 61ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6bb481ad] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1029 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.201 seconds (JVM running for 3.779)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 8052 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 60ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e8f160e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1009 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 3.201 seconds (JVM running for 3.794)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 3252 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$299f45cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1711 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.394 seconds (JVM running for 7.731)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Starting ShellApplication on home with PID 4352 (F:\ideaproject\shell\target\classes started by luokun in F:\ideaproject\shell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 65ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$acf1d187] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/9.0.12
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;D:\jdk-8u91-windows-x64\jdk\bin;D:\软件\Maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Oracle\Oracle\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\;d:\SQL Server 2008 R2\100\Tools\Binn\;d:\SQL Server 2008 R2\100\DTS\Binn\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\Tools\Binn\VSShell\Common7\IDE\;d:\SQL Server 2008 R2\Microsoft SQL Server86\100\DTS\Binn\;D:\Mysql\mysql-5.6.33-winx64\bin;C:\Program Files\TortoiseSVN\bin;D:\Rational\Common;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Maven\apache-maven-3.5.0\bin;D:\apache-tomcat-7.0.54\bin;E:\Program Files\natapp;C:\Users\luokun\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1367 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'formContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.7.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started ShellApplication in 5.967 seconds (JVM running for 8.246)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
